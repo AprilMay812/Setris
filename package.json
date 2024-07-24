@@ -1,7 +1,7 @@
 {
-  "name": "setris-client",
+  "name": "unity",
   "version": "1.0.0",
-  "description": "Client and server side for Setris (sand Tetris) project",
+  "description": "Client and server side for Unity project",
   "scripts": {
     "client-build": "webpack --watch --mode production --config ./app/weback.config.js",
     "client-dev": "npx webpack --watch --mode development --config ./app/webpack.config.js",
